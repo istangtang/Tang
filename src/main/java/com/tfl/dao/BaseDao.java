@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.Collection;
 import java.util.List;
 
+//啦啦啦
 public interface BaseDao<T>{
     public  void save(T instance);
 
